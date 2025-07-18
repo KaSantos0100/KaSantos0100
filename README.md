@@ -27,7 +27,7 @@ Desenvolvedora Web apaixonada por tecnologia, desafios e por criar soluções qu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaSantos0100&show_icons=true&theme=radical" width="48%" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaSantos010&layout=compact&theme=radical" width="37%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaSantos0100&layout=compact&theme=radical" width="37%"/>
 </p>
 
 ---
